@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Item01</key>
+	<dict>
+		<key>levelTitle</key>
+		<string>A new World (I)</string>
+		<key>levelName</key>
+		<string>Levels/Level_0</string>
+		<key>levelDescription</key>
+		<string></string>
+		<key>premium</key>
+		<false/>
+	</dict>
+	<key>Item02</key>
+	<dict>
+		<key>levelTitle</key>
+		<string>A new World (I)</string>
+		<key>levelName</key>
+		<string>Levels/Level_0</string>
+		<key>levelDescription</key>
+		<string></string>
+		<key>premium</key>
+		<false/>
+	</dict>
+	<key>Item03</key>
+	<dict>
+		<key>levelTitle</key>
+		<string>A new World (II)</string>
+		<key>levelName</key>
+		<string>Levels/Level_1</string>
+		<key>levelDescription</key>
+		<string></string>
+		<key>premium</key>
+		<false/>
+	</dict>
+</dict>
+</plist>
